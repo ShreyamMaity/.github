@@ -1,14 +1,18 @@
-# Instructions To Create a Pull Request
+<!-- Instructions To Create a Pull Request -->
 
-- First Make Sure You're OK with Your changes
-- Star this repository.
-- Create an issue with description that how you want to contribute in this project.
-- Then fork this repository.
-- In forked repository add your changes.
-- Then make pull request with issue number .
-- Now Describe what have you done/changed/modified in description
-- Pull request should have a proper description or any screenshpt of the changes you have made.
-- Add The path of the file you've changed/modified `eg. : ./src/codes/main.cpp`
-- Wait for review.
+# Issue Number : <!-- Mention Issue Number Here -->
+.
+.
+.
+# Modified File Path : <!-- path of the modified file `eg : ./src/code/main.cpp` -->
+.
+.
+.
+# Description : <!-- What have you done/modified/changed -->
+.
+.
+.
+# Mentions : <!-- If You Want To Mention any Contributos -->
+@ShreyamMaity
 
-> Enjoy. Happy Contributing </>
+<!-- Enjoy. Happy Contributing </> -->
